@@ -1,0 +1,23 @@
+17:33:04.435 [main] INFO  resources.base - Got Price in Product page
+17:33:04.465 [main] INFO  resources.base - Test Case Passed
+15:53:44.192 [main] INFO  resources.base - Clicked on Add to cart button
+15:53:45.544 [main] INFO  resources.base - Clicked on Cart
+15:57:18.639 [main] INFO  resources.base - Clicked on Add to cart button
+15:57:20.666 [main] INFO  resources.base - Clicked on Cart
+16:16:41.413 [main] INFO  resources.base - Clicked on Add to cart button
+16:16:46.101 [main] INFO  resources.base - Clicked on Cart
+16:23:47.379 [main] INFO  resources.base - Clicked on Add to cart button
+16:23:49.958 [main] INFO  resources.base - Clicked on Cart
+16:29:29.911 [main] INFO  resources.base - Clicked on Add to cart button
+16:29:31.861 [main] INFO  resources.base - Clicked on Cart
+17:17:37.657 [main] INFO  resources.base - Clicked on Add to cart button
+17:17:42.870 [main] INFO  resources.base - Clicked on Cart
+17:19:37.116 [main] INFO  resources.base - Clicked on Add to cart button
+17:19:37.531 [main] INFO  resources.base - Clicked on Cart
+17:21:56.532 [main] INFO  resources.base - Clicked on Add to cart button
+17:22:00.277 [main] INFO  resources.base - Clicked on Cart
+17:26:13.491 [main] INFO  resources.base - Clicked on Add to cart button
+17:26:17.884 [main] INFO  resources.base - Clicked on Cart
+17:26:18.991 [main] INFO  resources.base - Clicked ON Romove
+17:26:19.042 [main] INFO  resources.base - Got Remove Field Text
+17:26:19.042 [main] INFO  resources.base - TC Pass

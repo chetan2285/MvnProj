@@ -1,0 +1,23 @@
+16:17:45.130 [main] INFO  resources.base - Test Case Passed
+16:21:40.682 [main] INFO  resources.base - Fetched Actual prices
+16:21:40.685 [main] INFO  resources.base - Created 1st array list
+16:21:40.685 [main] INFO  resources.base - Sorted List Created
+16:21:40.688 [main] INFO  resources.base - Test Case Passed
+16:23:02.710 [main] INFO  resources.base - Fetched Actual prices
+16:23:02.713 [main] INFO  resources.base - Created 1st array list
+16:23:02.713 [main] INFO  resources.base - Sorted List Created
+16:23:02.716 [main] INFO  resources.base - Test Case Passed
+16:25:04.653 [main] INFO  resources.base - Fetched Actual prices
+16:25:04.656 [main] INFO  resources.base - Created 1st array list
+16:25:04.656 [main] INFO  resources.base - Sorted List Created
+16:25:04.659 [main] INFO  resources.base - Test Case Passed
+17:08:28.437 [main] INFO  resources.base - Fetched Actual prices
+17:33:11.586 [main] INFO  resources.base - Fetched Actual prices
+18:11:33.564 [main] INFO  resources.base - Sorted List Created
+18:16:46.439 [main] INFO  resources.base - Sorted List Created
+16:36:28.359 [main] INFO  resources.base - Test Case Passed
+16:48:09.221 [main] INFO  resources.base - Test Case Passed
+17:25:47.508 [main] INFO  resources.base - Got Product Price in listing page
+17:25:48.582 [main] INFO  resources.base - Switched to Product Page
+17:33:00.592 [main] INFO  resources.base - Got Price in listing page
+17:33:01.040 [main] INFO  resources.base - Switched to Product Page

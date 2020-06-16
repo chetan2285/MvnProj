@@ -1,0 +1,23 @@
+18:39:08.177 [main] INFO  resources.base - Navigated to Home page
+18:39:08.457 [main] INFO  resources.base - clicked On SearchBox
+19:14:25.579 [main] INFO  resources.base - Navigated to Home page
+19:14:25.827 [main] INFO  resources.base - clicked On SearchBox
+19:16:49.560 [main] INFO  resources.base - Navigated to Home page
+19:16:49.827 [main] INFO  resources.base - clicked On SearchBox
+12:54:19.558 [main] INFO  resources.base - Navigated to Home page
+12:54:21.011 [main] INFO  resources.base - clicked On SearchBox
+12:59:48.376 [main] INFO  resources.base - Navigated to Home page
+12:59:48.789 [main] INFO  resources.base - clicked On SearchBox
+13:02:43.038 [main] INFO  resources.base - Navigated to Home page
+13:02:43.195 [main] INFO  resources.base - clicked On SearchBox
+13:14:09.309 [main] INFO  resources.base - Navigated to Home page
+13:14:09.624 [main] INFO  resources.base - clicked On SearchBox
+15:39:10.103 [main] INFO  resources.base - Navigated to Home page
+15:58:37.841 [main] INFO  resources.base - Fetched Actual prices
+16:04:47.385 [main] INFO  resources.base - Fetched Actual prices
+16:04:47.387 [main] INFO  resources.base - Created 1st array list
+16:15:17.620 [main] INFO  resources.base - Fetched Actual prices
+16:15:17.623 [main] INFO  resources.base - Created 1st array list
+16:17:45.126 [main] INFO  resources.base - Fetched Actual prices
+16:17:45.128 [main] INFO  resources.base - Created 1st array list
+16:17:45.128 [main] INFO  resources.base - Sorted List Created

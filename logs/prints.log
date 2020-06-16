@@ -1,0 +1,9 @@
+17:32:15.427 [main] INFO  resources.base - Clicked on Add to cart button
+17:32:20.271 [main] INFO  resources.base - Clicked on Cart
+17:32:21.184 [main] INFO  resources.base - Clicked ON Romove
+17:32:21.332 [main] INFO  resources.base - Got Remove Field Text
+17:34:18.979 [main] INFO  resources.base - Clicked on Add to cart button
+17:34:23.379 [main] INFO  resources.base - Clicked on Cart
+17:34:30.410 [main] INFO  resources.base - Clicked ON Romove
+17:34:33.485 [main] INFO  resources.base - Got Remove Field Text
+17:34:33.488 [main] INFO  resources.base - Cart is Empty
